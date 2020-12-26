@@ -6,7 +6,7 @@
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
 
   <meta name="generator" content="Hugo 0.68.3" />
-  <link rel="canonical" href="/post/">
+  <link rel="canonical" href="/yarc/">
 
   
 
@@ -35,7 +35,7 @@
 
   
   
-  <title>Some of my blah blah blah... | My website | @return007</title>
+  <title>yarc - for the laziness in you | My website | @return007</title>
 </head>
 
   <body>
@@ -239,36 +239,299 @@
       <div class="main-and-footer">
         <div>
           
-<main id="main">
-  <h1>Some of my blah blah blah...</h1>
-  
-  <input
-    id="search"
-    type="text"
-    placeholder="Search by title..."
-    aria-label="Search by title"
-  />
-  
-  <ul class="patterns-list" id="list">
+  <main id="main">
+    <h1>
+      <svg class="bookmark-icon" aria-hidden="true" viewBox="0 0 40 50" focusable="false">
+        <use xlink:href="#bookmark"></use>
+      </svg>
+      yarc - for the laziness in you
+    </h1>
+
+    <div class="date">
+      
+      
+      <strong>Publish date: </strong>Sep 28, 2020
+      
+        
+      
+    </div>
+
     
-    <li>
-      <h2>
-        <a href="/yarc/">
-          <svg
-            class="bookmark"
-            aria-hidden="true"
-            viewBox="0 0 40 50"
-            focusable="false"
-          >
-            <use xlink:href="#bookmark"></use>
-          </svg>
-          yarc - for the laziness in you
-        </a>
-      </h2>
-    </li>
+      <div class="tags">
+        <strong>Tags: </strong>
+        <ul aria-label="tags">
+          
+            <li>
+              <svg class="tag-icon" aria-hidden="true" viewBox="0 0 177.16535 177.16535" focusable="false">
+                <use xlink:href="#tag"></use>
+              </svg>
+              
+              <a href="/tags/python/">python</a>
+            </li>
+          
+            <li>
+              <svg class="tag-icon" aria-hidden="true" viewBox="0 0 177.16535 177.16535" focusable="false">
+                <use xlink:href="#tag"></use>
+              </svg>
+              
+              <a href="/tags/websocket/">websocket</a>
+            </li>
+          
+            <li>
+              <svg class="tag-icon" aria-hidden="true" viewBox="0 0 177.16535 177.16535" focusable="false">
+                <use xlink:href="#tag"></use>
+              </svg>
+              
+              <a href="/tags/async/">async</a>
+            </li>
+          
+            <li>
+              <svg class="tag-icon" aria-hidden="true" viewBox="0 0 177.16535 177.16535" focusable="false">
+                <use xlink:href="#tag"></use>
+              </svg>
+              
+              <a href="/tags/computer-networking/">computer networking</a>
+            </li>
+          
+            <li>
+              <svg class="tag-icon" aria-hidden="true" viewBox="0 0 177.16535 177.16535" focusable="false">
+                <use xlink:href="#tag"></use>
+              </svg>
+              
+              <a href="/tags/project/">project</a>
+            </li>
+          
+        </ul>
+      </div>
     
-  </ul>
-</main>
+    
+    
+      
+
+  <nav class="toc" aria-labelledby="toc-heading">
+    <h2 id="toc-heading">Table of contents</h2>
+    <ol>
+      
+        <li>
+          
+          
+          
+          
+          <a href="#features">
+            Features
+          </a>
+        </li>
+      
+        <li>
+          
+          
+          
+          
+          <a href="#in-action">
+            In action
+          </a>
+        </li>
+      
+        <li>
+          
+          
+          
+          
+          <a href="#try-it-out">
+            Try it out!
+          </a>
+        </li>
+      
+        <li>
+          
+          
+          
+          
+          <a href="#scope-of-improvement">
+            Scope of improvement
+          </a>
+        </li>
+      
+        <li>
+          
+          
+          
+          
+          <a href="#contribute">
+            Contribute
+          </a>
+        </li>
+      
+        <li>
+          
+          
+          
+          
+          <a href="#extras">
+            Extras
+          </a>
+        </li>
+      
+    </ol>
+  </nav>
+
+
+    
+
+    <p>So, the other day I sat down watching <em>The Matrix</em>. It’s comfortable and relaxing; everything’s going great.</p>
+<p>The universal law of <em>Conservation of Coziness</em> comes to bite you!</p>
+<p>If you are a realist, you can relate. Being comfortable for long is not possible. The longer you remain relaxed, the more you’ll have to work your ass off later.</p>
+<p>Okay, now going back to the story. I was relaxing and enjoying the great movie. And then I had sudden urge to drink (water; better be explicit!).</p>
+<p>Meh, what’s a big deal in that. Well, there is (and you will understand why) if you see my room setup.</p>
+<figure>
+    <img src="https://miro.medium.com/max/540/1*5iCCrfNtQNZbtPlO5d1uxw.png"
+         alt="My room"/> <figcaption>
+            <p>My room</p>
+        </figcaption>
+</figure>
+
+<p>Now imagine you are lying on bed, feeling thirsty but then there is this important scene coming up</p>
+<blockquote>
+<p>Yeah.</p>
+<p>Is everything in place?</p>
+<p>You weren&rsquo;t supposed to relieve me.</p>
+<p>I know, but I felt like taking a shift.</p>
+</blockquote>
+<p>What will you do? 😕</p>
+<p>Well, I would get up from my bed, go to my table, pause the movie, drink water, play it again and then come back to bed. I would also ensure to rewind it a few seconds, so that by the time I’ll reach the bed, it would play the same scene where I left.
+During this process, you will end up losing your comfortable position.</p>
+<hr>
+<p>Chapter 2 of the same story. I sat down thinking&hellip; why not do something about this. That way I can continue to be lazy and watch my favourite shows, and also do the side-interrupting-chores at the same time. That’s what <strong>yarc</strong> is all about. It’s short for “<strong>Y</strong>et <strong>A</strong>nother <strong>R</strong>emote <strong>C</strong>ontrol”. So basically it’s the same boring, old age remote control; but for your computer.</p>
+<h2 id="features">Features</h2>
+<p>yarc has two components - <em>client</em> and <em>server</em>. The server runs on your computer whereas the client is the actual remote. The client runs on your mobile phone and is as simple as a HTML page. Each remote comes with a few specialised <em>sub-remotes</em>. Let’s take a look into these specialised remotes:</p>
+<ul>
+<li>
+<p><strong>Multimedia control:</strong> The MVP of yarc (remember the story!) This remote has everything you need to relax and watch your favourite movie / TV show.
+<figure>
+    <img src="https://miro.medium.com/max/311/1*-lUKAmZnF3hY5oQEEnrYbQ.jpeg"
+         alt="Multimedia remote"/> <figcaption>
+            <p>Multimedia remote</p>
+        </figcaption>
+</figure>
+</p>
+</li>
+<li>
+<p><strong>Keyboard:</strong> Oh yeah, that’s true. You can press (almost) every keyboard key from your yarc remote, without reaching out to your physical keyboard.
+<figure>
+    <img src="https://miro.medium.com/max/340/1*h7ahQ4PpSgnwRntEM7vUFw.jpeg"
+         alt="Keyboard"/> <figcaption>
+            <p>Keyboard</p>
+        </figcaption>
+</figure>
+</p>
+</li>
+<li>
+<p><strong>Mouse control:</strong> yarc comes with a touchpad similar to what laptops in general have. Well, it has left and right mouse buttons and a dedicated vertical scrolling ability!
+<figure>
+    <img src="https://miro.medium.com/max/324/1*11ixKJ03lmy3UUXUHhxlug.jpeg"
+         alt="Mouse control"/> <figcaption>
+            <p>Mouse control</p>
+        </figcaption>
+</figure>
+</p>
+</li>
+</ul>
+<h2 id="in-action">In action</h2>
+
+<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
+  <iframe src="https://www.youtube.com/embed/scnOaSi3Znw" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" allowfullscreen title="YouTube Video"></iframe>
+</div>
+
+<h2 id="try-it-out">Try it out!</h2>
+<p>To try yarc, you would first need to install the yarc server on your PC.</p>
+<h4 id="if-you-are-on-linux">If you are on Linux:</h4>
+<ol>
+<li>
+<p>Open terminal (Ctrl+Alt+T)</p>
+</li>
+<li>
+<p>On the terminal screen, run the following command:</p>
+<p><code>$ sudo pip3 install yarc-server==0.1.1</code></p>
+</li>
+</ol>
+<h4 id="if-you-are-on-windows">If you are on Windows:</h4>
+<ol>
+<li>
+<p>Open command prompt</p>
+</li>
+<li>
+<p>On the terminal screen, run the following command:</p>
+<p><code>$ pip3 install yarc-server==0.1.1</code></p>
+</li>
+</ol>
+<p>This would install yarc-server on your machine. To launch yarc, run the following command:</p>
+<p><code>$ yarc</code></p>
+<p>That’s it! Scan the QR code from your mobile phone’s camera or type the address in your mobile’s browser (which would be printed on your screen). And voila! Here is your yarc remote. 😃</p>
+<h2 id="scope-of-improvement">Scope of improvement</h2>
+<p>The project is in alpha right now, so a lot of advanced features might be missing. A few features might not work as well 😿.
+But, all it would take is some more time to finish up the current issues and then take up the advanced features.</p>
+<h4 id="current-issues">Current issues:</h4>
+<ol>
+<li>Volume buttons don’t work in Linux. 🔇</li>
+<li>The QR code is not rendered when launched from Windows.</li>
+<li>Caps lock and shift key don’t work as expected.</li>
+<li>I haven’t tested it under MacOS 😛. So, all the best!</li>
+</ol>
+<h4 id="advanced-features">Advanced features:</h4>
+<ol>
+<li>
+<p><em>Ability to add shortcuts.</em> Each shortcut will be a combination of an atomic step. Following are defined as atomic steps:</p>
+<ul>
+<li><code>keyDown</code></li>
+<li><code>keyUp</code></li>
+<li><code>keyPress</code></li>
+<li><code>type</code></li>
+<li><code>click</code></li>
+</ul>
+<p>An example of a shortcut is &ldquo;Open Netflix”. It can be defined with the help of following atomic steps:</p>
+<p><code>keyPress(&quot;windows_left&quot;) -&gt; type(&quot;Netflix&quot;) -&gt; keyPress(&quot;enter&quot;)</code></p>
+</li>
+<li>
+<p><em>Gaming remote</em> - A dedicated remote for gaming 🎮</p>
+</li>
+<li>
+<p><em>Switching between open windows.</em> Right now, the only way is to use mouse; this feature would show/list down all the open applications of your PC and switching between apps will be a click away!</p>
+</li>
+<li>
+<p><em>Screencast from mobile to laptop</em></p>
+</li>
+<li>
+<p><em>User customizable theme for remote</em> 💥</p>
+</li>
+<li>
+<p><em>And so on&hellip;</em> (mentioned in the project <a href="https://github.com/return007/yarc/blob/master/README.md">README</a>)</p>
+</li>
+</ol>
+<h2 id="contribute">Contribute</h2>
+<p>The project is at its growing phase; so there’s a lot to be done. You can find the source code of the project at <a href="https://github.com/return007/yarc">https://github.com/return007/yarc</a>.</p>
+<p><strong>Who all can contribute:</strong></p>
+<ol>
+<li>If you are interested in the idea and would like to contribute to open-source.</li>
+<li>If you are a newbie and want to make your first PR to an open-source project.</li>
+<li>If you are taking part in Hacktoberfest, I’ve labelled some easy issues with hacktoberfest</li>
+<li>If you want to report bugs 🐛, thou art kind buddy.</li>
+</ol>
+<hr>
+<h2 id="extras">Extras</h2>
+<ol>
+<li>This is my first open source project (and published in <a href="https://pypi.org/project/yarc-server/">PyPi</a>). 🚧</li>
+<li>This is my first medium article. 📕</li>
+<li>I published my first YouTube video for this. 📹</li>
+</ol>
+<p>That’s it for now. Until next time 🙇!</p>
+<hr>
+<p><em>This article was originally published on <a href="https://medium.com/@return007/yarc-for-the-laziness-in-you-f352717cc00">Medium</a></em></p>
+
+  </main>
+  <div id="disqus-container">
+  
+</div>
+
 
           <footer role="contentinfo">
   

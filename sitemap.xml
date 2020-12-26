@@ -18,11 +18,43 @@
   </url>
   
   <url>
+    <loc>/tags/async/</loc>
+    <lastmod>2020-09-28T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/computer-networking/</loc>
+    <lastmod>2020-09-28T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/project/</loc>
+    <lastmod>2020-09-28T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/python/</loc>
+    <lastmod>2020-09-28T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/post/</loc>
+    <lastmod>2020-09-28T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>/tags/</loc>
+    <lastmod>2020-09-28T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/websocket/</loc>
+    <lastmod>2020-09-28T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/yarc/</loc>
+    <lastmod>2020-09-28T00:00:00+00:00</lastmod>
   </url>
   
 </urlset>
