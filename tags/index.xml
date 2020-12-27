@@ -6,10 +6,64 @@
     <description>Recent content in Tags on My website | @return007</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 28 Sep 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 27 Dec 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>bash</title>
+      <link>/tags/bash/</link>
+      <pubDate>Sun, 27 Dec 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/bash/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>nature</title>
+      <link>/tags/nature/</link>
+      <pubDate>Sun, 27 Dec 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/nature/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>productivity</title>
+      <link>/tags/productivity/</link>
+      <pubDate>Sun, 27 Dec 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/productivity/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>prompt</title>
+      <link>/tags/prompt/</link>
+      <pubDate>Sun, 27 Dec 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/prompt/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>temperature</title>
+      <link>/tags/temperature/</link>
+      <pubDate>Sun, 27 Dec 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/temperature/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>weather</title>
+      <link>/tags/weather/</link>
+      <pubDate>Sun, 27 Dec 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/weather/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>async</title>

@@ -22,6 +22,10 @@ html {
     color: #111;
     background-color: #fefefe;
 }
+pre code {
+    line-height: 1.1;
+    display: block;
+}
 template {
   display: none !important;
 }

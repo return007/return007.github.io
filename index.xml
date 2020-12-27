@@ -12,6 +12,17 @@
     
     
     <item>
+      <title>Making Bash prompt useful - S01E01</title>
+      <link>/making_bash_prompt_useful_s01e01/</link>
+      <pubDate>Sun, 27 Dec 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/making_bash_prompt_useful_s01e01/</guid>
+      <description>Introduction I like knowing about weather. Discussing weather is good old technique which always gets one out of an awkward silent &amp;ldquo;conversation&amp;rdquo; 😉.
+In the very first episode, we will try show weather information in the bash prompt. The idea is simple:
+ Find some API to get current weather data - preferably free! Learn how bash prompt work. Ideally, this should have been the first thing to do, but nevermind&amp;hellip; Write code to fetch weather data.</description>
+    </item>
+    
+    <item>
       <title>About</title>
       <link>/about/</link>
       <pubDate>Thu, 26 Nov 2020 00:00:00 +0000</pubDate>
