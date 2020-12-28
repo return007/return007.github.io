@@ -12,6 +12,16 @@
     
     
     <item>
+      <title>Resume</title>
+      <link>/resume/</link>
+      <pubDate>Mon, 28 Dec 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/resume/</guid>
+      <description>This resume contains some private information.
+If you wish to see it, please drop me an email and I&amp;rsquo;ll be more than happy to send you a copy.</description>
+    </item>
+    
+    <item>
       <title>Making Bash prompt useful - S01E01</title>
       <link>/making_bash_prompt_useful_s01e01/</link>
       <pubDate>Sun, 27 Dec 2020 00:00:00 +0000</pubDate>
@@ -28,7 +38,7 @@ In the very first episode, we will try show weather information in the bash prom
       <pubDate>Thu, 26 Nov 2020 00:00:00 +0000</pubDate>
       
       <guid>/about/</guid>
-      <description>I am Gaurav Lalchandani.</description>
+      <description>Coming soon</description>
     </item>
     
     <item>
@@ -38,7 +48,7 @@ In the very first episode, we will try show weather information in the bash prom
       
       <guid>/contact/</guid>
       <description>Let&amp;rsquo;s connect.
- </description>
+ &amp;nbsp;&amp;nbsp; @return007   &amp;nbsp;&amp;nbsp; @return007   &amp;nbsp;&amp;nbsp; glalchandanig@gmail.com   &amp;nbsp;&amp;nbsp; @return007  </description>
     </item>
     
     <item>
