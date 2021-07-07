@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>project on My website | @return007</title>
-    <link>/tags/project/</link>
-    <description>Recent content in project on My website | @return007</description>
+    <title>covid on My website | @return007</title>
+    <link>/tags/covid/</link>
+    <description>Recent content in covid on My website | @return007</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 15 May 2021 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="/tags/project/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/tags/covid/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -20,18 +20,6 @@
       <description>Introduction Another year of Covid-19 and this time, India got hit even harder. And who should be blamed&amp;hellip; Let me see&amp;hellip; maybe it is the people who thought that how worse can the virus be&amp;hellip; Hold on&amp;hellip; it should definitely be government&amp;rsquo;s responsibility that they couldn&amp;rsquo;t contain the spread of the virus. Leave it!
  &amp;ldquo;अब पछताए होत क्या, चिडिया चुग गई खेत&amp;rdquo;
  For the non-hindi speakers, it means there is no point in regreting late, when the action (birds spoiling the farm fields) has happened.</description>
-    </item>
-    
-    <item>
-      <title>yarc - for the laziness in you</title>
-      <link>/yarc/</link>
-      <pubDate>Mon, 28 Sep 2020 00:00:00 +0000</pubDate>
-      
-      <guid>/yarc/</guid>
-      <description>So, the other day I sat down watching The Matrix. It’s comfortable and relaxing; everything’s going great.
-The universal law of Conservation of Coziness comes to bite you!
-If you are a realist, you can relate. Being comfortable for long is not possible. The longer you remain relaxed, the more you’ll have to work your ass off later.
-Okay, now going back to the story. I was relaxing and enjoying the great movie.</description>
     </item>
     
   </channel>

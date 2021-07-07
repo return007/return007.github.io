@@ -3,6 +3,41 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>/tags/community/</loc>
+    <lastmod>2021-05-15T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/covid/</loc>
+    <lastmod>2021-05-15T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/project/</loc>
+    <lastmod>2021-05-15T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/</loc>
+    <lastmod>2021-05-15T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/</loc>
+    <lastmod>2021-05-15T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/the_story_of_vaccination_appointments_in_india/</loc>
+    <lastmod>2021-05-15T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/website/</loc>
+    <lastmod>2021-05-15T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/resume/</loc>
     <lastmod>2020-12-28T00:00:00+00:00</lastmod>
   </url>
@@ -29,16 +64,6 @@
   
   <url>
     <loc>/tags/prompt/</loc>
-    <lastmod>2020-12-27T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/post/</loc>
-    <lastmod>2020-12-27T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/</loc>
     <lastmod>2020-12-27T00:00:00+00:00</lastmod>
   </url>
   
@@ -74,11 +99,6 @@
   
   <url>
     <loc>/tags/computer-networking/</loc>
-    <lastmod>2020-09-28T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/project/</loc>
     <lastmod>2020-09-28T00:00:00+00:00</lastmod>
   </url>
   
